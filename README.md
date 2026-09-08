@@ -11,6 +11,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0115-distinct-subsequences/) | Hard |
 | [0119-pascals-triangle-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0509-fibonacci-number/) | Easy |
@@ -28,6 +29,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -69,4 +71,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
