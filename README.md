@@ -19,6 +19,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +61,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 <!---LeetCode Topics End-->
