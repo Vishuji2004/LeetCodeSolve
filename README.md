@@ -14,6 +14,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0115-distinct-subsequences/) | Hard |
 | [0119-pascals-triangle-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0120-triangle](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0120-triangle/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0509-fibonacci-number/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1025-divisor-game](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1025-divisor-game/) | Easy |
@@ -25,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0120-triangle](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0120-triangle/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
