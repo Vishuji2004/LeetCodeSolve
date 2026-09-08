@@ -15,6 +15,7 @@
 | [0115-distinct-subsequences](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0115-distinct-subsequences/) | Hard |
 | [0119-pascals-triangle-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0120-triangle/) | Medium |
+| [0279-perfect-squares](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0279-perfect-squares/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0509-fibonacci-number/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1025-divisor-game](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1025-divisor-game/) | Easy |
@@ -32,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0279-perfect-squares](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0279-perfect-squares/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -85,4 +87,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0279-perfect-squares/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0279-perfect-squares/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
