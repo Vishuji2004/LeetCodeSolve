@@ -38,6 +38,7 @@
 | [1025-divisor-game](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
