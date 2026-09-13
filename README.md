@@ -86,6 +86,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +121,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0835-image-overlap/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 <!---LeetCode Topics End-->
