@@ -89,10 +89,12 @@
 | [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -100,6 +102,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +132,7 @@
 | ------- | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
