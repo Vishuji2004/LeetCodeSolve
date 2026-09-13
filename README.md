@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0115-distinct-subsequences/) | Hard |
+| [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1668-maximum-repeating-substring](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
@@ -87,6 +88,7 @@
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +128,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
