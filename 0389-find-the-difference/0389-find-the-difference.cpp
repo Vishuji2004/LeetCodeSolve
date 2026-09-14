@@ -1,19 +1,11 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        vector<int> f1(26, 0), f2(26, 0);
-        for(char c : s){
-            f1[c - 'a']++;
+        string n = s + t;
+        int c = 0;
+        for(char ch : n){
+            c ^= (ch - 'a');
         }
-
-        for(char c : t) {
-            f2[c - 'a']++;
-        }
-
-        for(int i = 0; i < 26; i++){
-            if(f1[i] != f2[i]) return 'a' + i;
-        }
-
-        return ' ';
+        return c + 'a';
     }
 };
