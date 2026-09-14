@@ -41,6 +41,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0279-perfect-squares](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0279-perfect-squares/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0509-fibonacci-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0836-rectangle-overlap/) | Easy |
 | [1025-divisor-game](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3870-count-commas-in-range/) | Easy |
@@ -141,4 +142,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
