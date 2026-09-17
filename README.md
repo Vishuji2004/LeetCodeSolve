@@ -93,6 +93,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +140,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
