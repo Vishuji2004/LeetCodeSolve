@@ -44,6 +44,7 @@
 | [0279-perfect-squares](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0279-perfect-squares/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0836-rectangle-overlap/) | Easy |
+| [0866-prime-palindrome](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0866-prime-palindrome/) | Medium |
 | [1025-divisor-game](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1492-the-kth-factor-of-n/) | Medium |
@@ -161,9 +162,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0258-add-digits/) | Easy |
+| [0866-prime-palindrome](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0866-prime-palindrome/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1492-the-kth-factor-of-n/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0866-prime-palindrome](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0866-prime-palindrome/) | Medium |
 <!---LeetCode Topics End-->
