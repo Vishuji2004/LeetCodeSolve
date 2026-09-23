@@ -34,6 +34,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0120-triangle/) | Medium |
 | [0835-image-overlap](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0835-image-overlap/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -107,6 +108,7 @@
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -132,6 +134,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0389-find-the-difference/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -182,4 +185,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0018-4sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 <!---LeetCode Topics End-->
