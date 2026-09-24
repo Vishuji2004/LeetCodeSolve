@@ -39,6 +39,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Recursion
