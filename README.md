@@ -10,6 +10,7 @@
 | [0389-find-the-difference](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0389-find-the-difference/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1668-maximum-repeating-substring](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1668-maximum-repeating-substring/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
@@ -36,6 +37,7 @@
 | [0120-triangle](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0120-triangle/) | Medium |
 | [0835-image-overlap](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0835-image-overlap/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -139,6 +141,7 @@
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0389-find-the-difference/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
