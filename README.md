@@ -35,6 +35,7 @@
 | [0018-4sum](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0018-4sum/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0120-triangle/) | Medium |
+| [0169-majority-element](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0169-majority-element/) | Easy |
 | [0835-image-overlap](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0835-image-overlap/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -139,6 +140,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0169-majority-element/) | Easy |
 | [0389-find-the-difference](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0389-find-the-difference/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -147,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0018-4sum/) | Medium |
+| [0169-majority-element](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0169-majority-element/) | Easy |
 | [0389-find-the-difference](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0389-find-the-difference/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Matrix
@@ -204,4 +207,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0227-basic-calculator-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0227-basic-calculator-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
