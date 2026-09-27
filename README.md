@@ -9,6 +9,7 @@
 | [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
 | [0389-find-the-difference](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0389-find-the-difference/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
@@ -207,6 +208,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0227-basic-calculator-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0227-basic-calculator-ii/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,4 +221,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0169-majority-element/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
