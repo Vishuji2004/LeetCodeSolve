@@ -28,6 +28,7 @@
 | [1025-divisor-game](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1668-maximum-repeating-substring/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
@@ -42,6 +43,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -158,6 +160,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0835-image-overlap/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,4 +231,5 @@
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
