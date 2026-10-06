@@ -155,6 +155,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0169-majority-element/) | Easy |
 | [0389-find-the-difference](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0389-find-the-difference/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -212,6 +213,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0018-4sum/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,4 +257,8 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
