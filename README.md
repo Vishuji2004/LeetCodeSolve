@@ -9,6 +9,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0115-distinct-subsequences/) | Hard |
 | [0168-excel-sheet-column-title](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
 | [0389-find-the-difference](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0389-find-the-difference/) | Easy |
@@ -63,6 +64,7 @@
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0258-add-digits](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0258-add-digits/) | Easy |
 | [0279-perfect-squares](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0279-perfect-squares/) | Medium |
