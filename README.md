@@ -12,6 +12,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0389-find-the-difference](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0389-find-the-difference/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -148,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0279-perfect-squares/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +191,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0022-generate-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
