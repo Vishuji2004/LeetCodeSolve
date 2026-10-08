@@ -17,6 +17,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -237,6 +238,7 @@
 | [0227-basic-calculator-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -260,6 +262,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
