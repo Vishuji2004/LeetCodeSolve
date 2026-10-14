@@ -82,6 +82,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Recursion
@@ -119,6 +120,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
