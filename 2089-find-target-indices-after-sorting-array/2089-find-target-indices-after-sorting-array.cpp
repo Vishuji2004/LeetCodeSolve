@@ -2,13 +2,13 @@ class Solution {
 public:
     vector<int> targetIndices(vector<int>& nums, int target) {
         vector<int> res;
-        sort(nums.begin(), nums.end());
-        int id = upper_bound(nums.begin(), nums.end(), target) - nums.begin();
-        while(id > 0 && nums[id-1] == target){
-            res.push_back(id-1);
-            id--;
+        int sm = 0;
+        int eq = 0;
+        for(int x : nums){
+            if(x < target) sm++;
+            else if(x == target) eq++;
         }
-        reverse(res.begin(), res.end());
+        for(int i = sm; i < sm + eq; i++) res.push_back(i);
         return res;
     }
 };
