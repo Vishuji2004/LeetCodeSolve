@@ -24,6 +24,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2409-count-days-spent-together/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -86,6 +87,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2409-count-days-spent-together/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3870-count-commas-in-range/) | Easy |
