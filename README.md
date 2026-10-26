@@ -81,6 +81,7 @@
 | [0227-basic-calculator-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0258-add-digits](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0258-add-digits/) | Easy |
 | [0279-perfect-squares](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0279-perfect-squares/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0836-rectangle-overlap/) | Easy |
 | [0866-prime-palindrome](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0866-prime-palindrome/) | Medium |
@@ -172,6 +173,7 @@
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0279-perfect-squares/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0365-water-and-jug-problem](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0365-water-and-jug-problem/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -212,6 +214,7 @@
 | ------- | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0257-binary-tree-paths/) | Easy |
+| [0365-water-and-jug-problem](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -317,4 +320,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+## Bézout's Lemma
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0365-water-and-jug-problem/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0365-water-and-jug-problem/) | Medium |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0365-water-and-jug-problem/) | Medium |
+## Extended Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0365-water-and-jug-problem/) | Medium |
 <!---LeetCode Topics End-->
