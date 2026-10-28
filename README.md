@@ -47,6 +47,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -136,6 +138,7 @@
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0389-find-the-difference/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -209,6 +212,7 @@
 | [0835-image-overlap](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0835-image-overlap/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
