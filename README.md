@@ -84,6 +84,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0231-power-of-two](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0258-add-digits/) | Easy |
 | [0279-perfect-squares](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0279-perfect-squares/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0365-water-and-jug-problem/) | Medium |
@@ -103,6 +104,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
@@ -140,6 +142,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0231-power-of-two/) | Easy |
 | [0389-find-the-difference](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0389-find-the-difference/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
