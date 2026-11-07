@@ -2,25 +2,24 @@ class Solution {
 public:
     int resilientSubarray(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<int> rem(n);
-        for(int i = 0; i < n; i++){
-            rem[i] = nums[i] % k;
-        }
-
         int res = 0;
         int l = 0; int r = 1;
+        int remL = nums[l] % k;
+
         while(r < n){
-            if(rem[l] != rem[r]){
+            int remR = nums[r] % k;
+            if(remL != remR){
                 int s = r - l;
-                while((s-1)*rem[l] % k != 0) s--;
+                while((s-1)*remL % k != 0) s--;
                 res = max(res, s);
                 l = r;
+                remL = remR;
             }
             r++;
         }
 
         int s = r - l;
-        while((s-1)*rem[l] % k != 0) s--;
+        while((s-1)*remL % k != 0) s--;
         res = max(res, s);
 
         return res;
