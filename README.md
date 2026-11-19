@@ -65,6 +65,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -137,6 +138,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -212,6 +214,7 @@
 | [0389-find-the-difference](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0389-find-the-difference/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Matrix
