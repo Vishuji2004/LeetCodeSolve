@@ -59,6 +59,7 @@
 | [0120-triangle](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0120-triangle/) | Medium |
 | [0169-majority-element](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0169-majority-element/) | Easy |
 | [0835-image-overlap](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0835-image-overlap/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -95,6 +96,7 @@
 | [0866-prime-palindrome](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0866-prime-palindrome/) | Medium |
 | [1025-divisor-game](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/2409-count-days-spent-together/) | Easy |
@@ -276,6 +278,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -352,4 +355,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/0365-water-and-jug-problem/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vishuji2004/LeetCodeSolve/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
